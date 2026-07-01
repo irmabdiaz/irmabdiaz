@@ -54,5 +54,4 @@ To grow as a QA Engineer by contributing to software quality through analytical 
 ---
 
 ### 📫 Let's Connect
-
-- - LinkedIn Profile
+- LinkedIn: [Irma Díaz](https://www.linkedin.com/in/irmabdiaz)
