@@ -2,9 +2,9 @@
 
 ### QA Engineer | Manual Testing | API Testing
 
-I'm passionate about software quality and enjoy ensuring applications deliver reliable and high-quality user experiences through structured testing and continuous improvement.
+I'm passionate about software quality and enjoy ensuring applications deliver reliable user experiences through structured testing and continuous improvement.
 
-I enjoy ensuring that applications work as expected through structured testing, clear documentation, and attention to detail. I'm passionate about improving software quality by validating functionality, identifying issues, and contributing to reliable user experiences.
+I enjoy ensuring that applications work as expected through structured testing, clear documentation, and attention to detail. My goal is to contribute to software quality by validating functionality, identifying issues, and supporting reliable user experiences.
 
 ---
 
