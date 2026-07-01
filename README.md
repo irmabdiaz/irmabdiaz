@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Irma 👋
 
-<!--
-**irmabdiaz/irmabdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Engineer | Manual Testing | API Testing
 
-Here are some ideas to get you started:
+I'm passionate about software quality and enjoy ensuring applications deliver reliable and high-quality user experiences through structured testing and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy ensuring that applications work as expected through structured testing, clear documentation, and attention to detail. I'm passionate about improving software quality by validating functionality, identifying issues, and contributing to reliable user experiences.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Postman
+- REST APIs
+- JSON
+- Jira
+- Git & GitHub
+- Agile / Scrum
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+
+---
+
+## 📂 Featured Project
+
+### Urban Groceries API Testing
+
+Functional and regression API testing project using Postman.
+
+This project includes:
+
+- API endpoint validation
+- Positive and negative test scenarios
+- HTTP status code verification
+- JSON response validation
+- Test documentation
+
+---
+
+## 🌱 Currently Learning
+
+- API Testing Best Practices
+- Test Automation Fundamentals
+- SQL for QA
+- QA Portfolio Development
+
+---
+
+## 🎯 Career Goal
+
+To grow as a QA Engineer by contributing to software quality through analytical thinking, organization, attention to detail, and continuous learning.
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/irmabdiaz
