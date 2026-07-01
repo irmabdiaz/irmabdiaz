@@ -26,7 +26,7 @@ I enjoy ensuring that applications work as expected through structured testing, 
 
 ### Urban Groceries API Testing
 
-Functional and regression API testing project using Postman.
+Functional and regression testing of REST APIs using Postman.
 
 This project includes:
 
@@ -40,9 +40,9 @@ This project includes:
 
 ## 🌱 Currently Learning
 
-- API Testing Best Practices
-- Test Automation Fundamentals
 - SQL for QA
+- Test Automation Fundamentals
+- API Testing Best Practices
 - QA Portfolio Development
 
 ---
@@ -55,4 +55,4 @@ To grow as a QA Engineer by contributing to software quality through analytical 
 
 ### 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/irmabdiaz
+- - LinkedIn Profile
